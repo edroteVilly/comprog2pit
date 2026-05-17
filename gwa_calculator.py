@@ -1,10 +1,3 @@
-"""
-GWA Calculator — Philippine 1.0–5.0 Grading System
-Author : Group 6
-Features: Add/remove subjects, live GWA, Pass/Fail per subject
-UI      : Dark mode Tkinter
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 
